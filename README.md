@@ -3,7 +3,7 @@
 
 - You can find more about my Blender work [here](https://wiki.blender.org/wiki/User:HimanshiKalra/Report)
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/himanshi-kalra-306712171/).
-- ⚡ Fun fact: I took my science book with me to the bathroom to study Archimede's Principle.
+- ⚡ Fun fact: I took my science book with me to the bathroom to study Archimedes Principle.
 
 
 <!--
