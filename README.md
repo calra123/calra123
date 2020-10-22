@@ -1,4 +1,10 @@
 ### Hi there 👋
+🔭 I’m currently working on Thesis Project, BGP Anomaly Detection. I worked as a Gsoc 2020 student @[Blender Foundation](https://www.blender.org/). 🌱 I’m currently learning how to start with GraphQL, and combine it with Flask and Data visualization with Plotly and Dash.
+
+- You can find more about my Blender work [here](https://wiki.blender.org/wiki/User:HimanshiKalra/Report)
+- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/himanshi-kalra-306712171/).
+- ⚡ Fun fact: I took my science book with me to the bathroom to study Archimede's Principle.
+
 
 <!--
 **calra123/calra123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
