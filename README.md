@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on Thesis Project, BGP Anomaly Detection. I worked as a Gsoc 2020 student @[Blender Foundation](https://www.blender.org/). 🌱 I’m currently learning how to start with GraphQL, and combine it with Flask and Data visualization with Plotly and Dash.
+🔭 I’m currently working on deploying an app, trying to get my head around Kubernetes. I worked as a Gsoc 2020 student @[Blender Foundation](https://www.blender.org/). 🌱 I’m currently learning how to use Docker and Kubectl.
 
 - You can find more about my Blender work [here](https://wiki.blender.org/wiki/User:HimanshiKalra/Report)
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/himanshi-kalra-306712171/).
