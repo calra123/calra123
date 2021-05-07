@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on deploying an app, trying to get my head around Kubernetes. I worked as a Gsoc 2020 student @[Blender Foundation](https://www.blender.org/). 🌱 I’m currently learning how to use Docker and Kubectl.
+🔭 I’m currently working on deploying an app, trying to get my head around Kubernetes. I worked as a Gsoc 2020 student @[Blender](https://www.blender.org/). 🌱 Currently I am learning some Finance concepts as part of my curriculum.
 
 - You can find more about my Blender work [here](https://wiki.blender.org/wiki/User:HimanshiKalra/Report)
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/himanshi-kalra-306712171/).
