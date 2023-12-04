@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on deploying an app, trying to get my head around Kubernetes. I worked as a Gsoc 2020 student @[Blender](https://www.blender.org/). 🌱 Currently I am learning some Finance concepts as part of my curriculum.
+🔭 I’m not so much active in open-source at the moment, am up for collaboration though! I am reading a lot of books! I am passionate about discussions on data structure, especially the history, SQL lite Richard Hipp, the rise of JSON over XML parsers, spotify's consolidation into one CI/CD pipeline and more. Feel free to ping me or set up a meet :) 
 
 - You can find more about my Blender work [here](https://wiki.blender.org/wiki/User:HimanshiKalra/Report)
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/himanshi-kalra-306712171/).
